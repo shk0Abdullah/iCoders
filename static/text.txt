@@ -1,0 +1,8 @@
+This is a static file 
+# Anyone can view the static file on the server
+# It contains the images and other content related to the weebiste It aolso include CSS and javascript
+# Never add any sensitive content to static files as it anyone can view it. In django you cannot see the 
+static file content by typing the url i.e:
+# xyzurl.com/static --> It did not work you have to specify the file name with its containing data type 
+or with its extension i.e: # xyzurl.com/static/text.txt --> It works
+#-- In flask you can view the static files of any website 

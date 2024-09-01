@@ -1,0 +1,36 @@
+
+body{
+    background: radial-gradient(circle, rgb(63, 57, 57), black);
+    color: white;
+  }
+  .c-w{
+      color: white;
+    }
+    .about-us {
+max-width: 800px;
+margin: 50px auto;
+padding: 20px;
+background-color: #696868;
+border-radius: 8px;
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-us h1 {
+font-size: 2.5em;
+margin-bottom: 20px;
+color: #ffffff;
+}
+
+.about-us p {
+line-height: 1.6;
+margin-bottom: 15px;
+color: #ffffff;
+font-size: 1.1em;
+}
+
+  .privacy{
+    align-content: center;
+    margin: 20px;
+    padding: 5px;
+
+  }
