@@ -1,5 +1,10 @@
 # iCoders
 
+## Demo Video
+
+Check out the demo video of the Weather Checker project [here]([https://www.linkedin.com/posts/abdullah-amjad-a86206298_%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%AB-%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%AB-a-responsive-activity-7243301278502572032-pf2X?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/abdullah-amjad-a86206298_staticwebsite-python-html-activity-7235964216669552640-wYvc?utm_source=share&utm_medium=member_desktop)).
+
+
 Welcome to iCoders, my very first website project built using Django and SQLite3! iCoders is designed to provide a sleek and simple platform with essential pages like Home, About, Policy, and Contact Us.
 
 ## Features
