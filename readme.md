@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-Check out the demo video of the Weather Checker project [here]([https://www.linkedin.com/posts/abdullah-amjad-1-_staticwebsite-python-html-activity-7235964216669552640-FRyU?utm_source=share&utm_medium=member_desktop]).
+Check out the demo video of the Weather Checker project [here](https://www.linkedin.com/posts/abdullah-amjad-1-_staticwebsite-python-html-activity-7235964216669552640-FRyU?utm_source=share&utm_medium=member_desktop).
 
 
 Welcome to iCoders, my very first website project built using Django and SQLite3! iCoders is designed to provide a sleek and simple platform with essential pages like Home, About, Policy, and Contact Us.
